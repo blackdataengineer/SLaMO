@@ -1,0 +1,8 @@
+__pycache__/
+env/
+.env
+*h2b.json
+*h2a.json
+skills.json
+skill_db_relax_20.json
+token_dist.json

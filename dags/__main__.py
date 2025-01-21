@@ -1,0 +1,2 @@
+from .extract_jobs import seasonal_jobs_pipeline
+seasonal_jobs_pipeline()
